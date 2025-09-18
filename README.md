@@ -13,11 +13,11 @@ This is a comprehensive dataset designed to support fine-tuning Large Language M
 
 To meet the needs of various computational resources and application scenarios, I have provided three versions of the dataset with different sizes:
 
-* **Small**: 
+* **Small(16.1K)**: 
     * [🤗 zhangjun640/Chinese_interview_small](https://huggingface.co/datasets/zhangjun640/Chinese_interview_small)
-* **Medium**:
+* **Medium(59K)**:
     * [🤗 zhangjun640/Chinese_interview_medium](https://huggingface.co/datasets/zhangjun640/Chinese_interview_medium)
-* **Large**:
+* **Large(158K)**:
     * [🤗 zhangjun640/Chinese_interview_large](https://huggingface.co/datasets/zhangjun640/Chinese_interview_large)
 
 ### ✨ Key Features
